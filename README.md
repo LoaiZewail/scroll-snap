@@ -1,6 +1,6 @@
-# Parallax Scrolling Effects
+# Scroll Snap Effect
 
-Stunning Parallax Scrolling Effects Website
+A Simple scroll snap effect
 
 ## Technologies used
 
